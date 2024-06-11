@@ -1,0 +1,7 @@
+/give @a ve
+/give @a vetlemod:obama_prism
+/give @s vetlemod:prism_block
+/give @s minecraft:iron_pickaxe
+/gamemode 0
+/gamemode survival
+/gamemode creative
