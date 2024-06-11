@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "vetlemod:block/prism_block"
+    }
+  }
+}
